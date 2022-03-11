@@ -1,0 +1,7 @@
+pip
+matplotlib
+numpy
+ipympl
+scipy
+ase
+nglview
