@@ -6,3 +6,4 @@ scipy
 ase
 nglview
 graphviz
+moviepy
