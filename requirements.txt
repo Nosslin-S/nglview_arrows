@@ -5,3 +5,4 @@ ipympl
 scipy
 ase
 nglview
+graphviz
